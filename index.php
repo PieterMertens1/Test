@@ -19,7 +19,7 @@
 	<p>
 		Here is an image of free found on the internet
 	</p>
-	<img src="https://leuvenbuitenlandreisdotcom.files.wordpress.com/2012/06/img_23962.jpg" width="300"/>
+	<img src="https://leuvenbuitenlandreisdotcom.files.wordpress.com/2012/06/img_23962.jpg" width="300px"/>
 </div>
 
 
